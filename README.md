@@ -1,4 +1,9 @@
 # Kafka for your data pipeline
+
+Implementation based on the blog by Tuan Nguyen. See https://towardsdatascience.com/kafka-for-your-data-pipeline-why-not-5a14b50efe7f for more information
+
+-----
+# Kafka for your data pipeline
 ## Project summary
 Kafka has risen in popularity lately as businesses rely on it to power mission-critical applications and data pipelines.  
 
